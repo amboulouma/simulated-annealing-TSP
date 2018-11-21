@@ -1,3 +1,8 @@
+/*
+* SimulatedAnnealing.java
+* The SA algorithm
+*/
+
 import TourManager;
 import Tour;
 import City;
